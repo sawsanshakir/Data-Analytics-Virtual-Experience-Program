@@ -16,15 +16,16 @@ should be rolled out to all their stores.
 analytics and insights from Task 1 and 2 to prepare a report for the client
 
 Methods used
-Data Cleaning
-Machine Learning
-Data Visualisation
+- Data Cleaning.
+- Machine Learning.
+- Data Visualisation.
+
+
 Technologies used
-Python
-Excel
-Pandas, Numpy, Jupyter Notebook
-Build status
-Active, On-Hold, Completed
+- Python
+- Excel
+- Pandas, Numpy, Jupyter Notebook
+
 
 
 
